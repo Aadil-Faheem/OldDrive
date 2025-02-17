@@ -1,0 +1,32 @@
+Date- 05/12/24
+
+-----------------------------------------
+		Added
+-----------------------------------------
+
+- Added Terrain
+- Added Road
+- Added Orbit Camera
+- Added Hood Camera
+- Added Switching camera function with 'C'
+- Added Locking with 'M'
+- Added BrakeLights
+- Added Blinkys :)
+- Added Car Lights (Key: L)
+- Added Front Beams (Key: K)
+- Added Dipper Lights (Key: F)
+
+
+-----------------------------------------
+		Updates
+-----------------------------------------
+
+- Updated Handling (Car used to flip at medium to highspeeds)
+- Updated Handling (Made the car more drifty)
+- Updated Camera Script
+- Updated Start Camera (Now starts with Orbit Cam instead of First Person)
+
+
+
+
+Removed

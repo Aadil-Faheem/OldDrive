@@ -1,0 +1,10 @@
+WASD - Drive
+Spacebar - Handbrake
+Mouse - Look Around
+Left Mouse Button - Zoom
+C - Change Camera (Orbit, First Person, Hood)
+M - Lock Camera
+L - Car Lights
+K - Low Beams
+F - Dipper
+P - Reset Level
