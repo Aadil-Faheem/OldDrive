@@ -1,0 +1,72 @@
+Date- 07/12/24 - 12/12/24 - 26/12/24 - 30/12/24 - 31/12/24
+
+-----------------------------------------
+		Added
+-----------------------------------------
+
+- Added Player (Only for the first 2 levels right now) Controls: Move-WASD, Zoom-RMB, Interact-E
+- Added Main Menu
+- Added Controls Help
+- Added Home Start (Level One)
+- Added Garage (Level Two)
+- Added Outdoors (Level Three)
+
+
+> Level One:
+- Added Home in Level One
+- Added Interactable Stuff in home (More will be added) - interaction with E 
+
+> Level Two:
+- Added Garage Door
+- Added Car
+- Added Stuff
+- (To) Added a few objectives
+
+> Level Three:
+- Added Outside House
+- Added Garage
+- Added Car
+- Added Road
+- Added Town
+- Added Map Stuff (Long list) - Grass, Trees, Objects like Fences, Speed Bump, Lights, Pavement 
+- Added Terrain
+
+> Additions to Car:
+- Added Smoke Effect
+- Added SkidMarks
+- Added Speed UI
+- Added Sounds (Enigne, Screech, Ignition, Blinkers)
+- Added Hazards
+- Added Ignition System (Stop & Start Engine)
+
+
+-----------------------------------------
+		Updates
+-----------------------------------------
+
+- Updated the Car Size reduced it by 40% so it fits with the script
+- Updated Handling (Made car more grounded and slower)
+- Updated Lighting system
+- Updated Skybox
+- Updated Camera System (Minor Changes)
+- Updated Sounds (Car Sounds etc)
+- Updated Steering Wheel (Went back to Low Poly, The black one looked odd with the car)
+- Steering Wheel Animation (Steering comes back slowly and has an overshoot for smoother steering animation)
+
+-----------------------------------------
+		Removed
+-----------------------------------------
+
+- Removed Player from Level 3 (Current setup does not work with both car and player, will find another way maybe)
+
+-----------------------------------------
+	Bugs Fixed/Noticed
+-----------------------------------------
+
+- Fixed Multiple Audio listener with a script (Changes audio listener on/off according to the camera used)
+- Fixed Performance issues with boost from 30 to 60fps (reduced area visible/ clip range)
+- Fixed Near Clipping Issues (Just made it more smaller value)
+- Noticed Lighting issues on ground by car lights (dont know why this is happening currently)
+- Pause Menu does not work in Level One and Two Due to the controller (Not a big deal currently)
+- Pause Menu does not work as intended in Level Three (works but with issues)
+- Road System does not generate properly, has Dips and Highs (will address)
