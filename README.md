@@ -2,7 +2,7 @@
 
 It contains all the files required to recompile the game in Unity version 2019
 
-**There is 100% some useless files that were not used in the project from assets, and some which should be placed in .gitignore, but lessons learned from this, next will be better!**
+**There are definitely some useless files that were not used in the project from assets, and some which should be placed in .gitignore, but lessons learned from this, next will be better!**
 
 **The Files are as listed below:**
 
